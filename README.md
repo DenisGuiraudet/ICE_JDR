@@ -1,5 +1,6 @@
-# ICE_Personal
-Some personal projects done during my Master ICE
+# ICE_JDR
+
+Remake of L3 MIASHS PTUT JDR
 
 ### Management
 
