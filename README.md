@@ -15,6 +15,7 @@ Remake of L3 MIASHS PTUT JDR
 - UX: Adobe XD
 
 ### What's the tech ?
+
 - Web: Angular
 - Mobile: NativeScript
 - Desktop: Electron
