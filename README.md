@@ -2,17 +2,9 @@
 
 Remake of L3 MIASHS PTUT JDR
 
-### Files
+### Documentation
 
-- [Drive](https://drive.google.com/drive/folders/1ZiWNHGCTRZx9b9ySH9SKUgKSzcIAngmC?usp=sharing)
-
-### Management
-
-- [Trello](https://trello.com/b/LOssLUQ0/ice-jdr)
-
-### Design
-
-- UX: Adobe XD
+- [Google Doc](https://docs.google.com/document/d/15AzZgX01uoMjGIJ7hrP3fjaZzr9-Dq3qhW_GvRdR_No/edit?usp=sharing)
 
 ### What's the tech ?
 
