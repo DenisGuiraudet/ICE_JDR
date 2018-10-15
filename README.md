@@ -8,7 +8,7 @@ Remake of L3 MIASHS PTUT JDR
 
 ### Management
 
-- [Gladys](https://gladys.com/beam/01666396d36967cabb35b9fa20762f35/info)
+- [Trello](https://trello.com/b/LOssLUQ0/ice-jdr)
 
 ### Design
 
