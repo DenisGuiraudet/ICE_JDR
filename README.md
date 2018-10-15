@@ -8,7 +8,7 @@ Remake of L3 MIASHS PTUT JDR
 
 ### Design
 
-- UX: 
+- UX: Adobe XD
 
 ### What's the tech ?
 - Web: Angular
